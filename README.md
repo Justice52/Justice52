@@ -1,4 +1,9 @@
-### Hi there 👋
+### Hi there, I'm Justice Ayamdoo, a BSc. Computer Science student.
+🔭 I’m currently working on a Django project.
+🌱 I’m currently learning Django and abit of mobile development.
+👯 I’m looking to collaborate on more Django projects.
+📫 How to reach me: jayamdii@palm.edu.gh
+😄 Pronouns: He/Him/His
 
 <!--
 **Justice52/Justice52** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
