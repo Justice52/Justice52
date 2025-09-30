@@ -1,6 +1,6 @@
 ### Hi there, I'm Justice Ayamdoo, a BSc. Computer Science student at Palm University College, Ghana.
-- 🔭 I’m currently working on a Django project.
-- 🌱 I’m currently learning Django and abit of mobile development.
+🔭 I’m currently working on a Django project.
+🌱 I’m currently learning Django and abit of mobile development.
 👯 I’m looking to collaborate on more Django projects.
 📫 How to reach me: jayamdoo@palm.edu.gh
 😄 Pronouns: He/Him/His
